@@ -1,3 +1,3 @@
-# Updated Test File
+# Final Test
 
-This is updated content without providing SHA.
+Testing with 7-character short SHA like in the original bug report.
