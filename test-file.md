@@ -1,3 +1,3 @@
 # Updated Test File
 
-This is updated content with full SHA.
+This is updated content without providing SHA.
