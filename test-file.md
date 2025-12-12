@@ -1,3 +1,3 @@
-# Test File
+# Updated Test File
 
-This is the initial content.
+This is updated content with short SHA.
