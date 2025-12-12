@@ -1,1 +1,1 @@
-Final content
+Content with both whitespace types
