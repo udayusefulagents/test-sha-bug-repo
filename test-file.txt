@@ -1,1 +1,1 @@
-Testing SHA auto-fetch with logging
+Testing with improved type checking for SHA
